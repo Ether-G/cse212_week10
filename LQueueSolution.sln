@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AQueueLib", "AQueueLib\AQue
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AQueueTests", "AQueueTests\AQueueTests.csproj", "{D0A41AA9-77F1-4C61-AD90-4E1559E58817}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LLQueueLib", "LLQueueLib\LLQueueLib.csproj", "{F123E56D-D4F1-41CA-AFC5-AFD9EBD315A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LLQueueTests", "LLQueueTests\LLQueueTests.csproj", "{E0A41AA9-77F1-4C61-AD90-4E1559E58818}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +40,13 @@ Global
 		{D0A41AA9-77F1-4C61-AD90-4E1559E58817}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0A41AA9-77F1-4C61-AD90-4E1559E58817}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0A41AA9-77F1-4C61-AD90-4E1559E58817}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F123E56D-D4F1-41CA-AFC5-AFD9EBD315A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F123E56D-D4F1-41CA-AFC5-AFD9EBD315A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F123E56D-D4F1-41CA-AFC5-AFD9EBD315A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F123E56D-D4F1-41CA-AFC5-AFD9EBD315A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0A41AA9-77F1-4C61-AD90-4E1559E58818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0A41AA9-77F1-4C61-AD90-4E1559E58818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0A41AA9-77F1-4C61-AD90-4E1559E58818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0A41AA9-77F1-4C61-AD90-4E1559E58818}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
